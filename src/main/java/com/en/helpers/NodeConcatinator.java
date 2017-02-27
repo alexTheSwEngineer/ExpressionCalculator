@@ -1,9 +1,9 @@
 package com.en.helpers;
 
-import com.en.Calculator;
-import com.en.CalculatorNode;
-import com.en.CalculatorNodeImpl;
-import com.en.Operation;
+import com.en.core.Calculator;
+import com.en.core.CalculatorNode;
+import com.en.core.CalculatorNodeImpl;
+import com.en.core.Operation;
 
 import java.util.HashMap;
 import java.util.List;

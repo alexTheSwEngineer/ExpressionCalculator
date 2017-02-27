@@ -1,4 +1,4 @@
-package com.en;
+package com.en.core;
 
 import com.en.helpers.BinaryOperationBuilder;
 import lombok.Data;

@@ -1,6 +1,6 @@
 package com.en.helpers;
 
-import com.en.Operation;
+import com.en.core.Operation;
 
 import java.util.function.BiFunction;
 import java.util.function.Function;

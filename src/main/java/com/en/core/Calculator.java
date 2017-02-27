@@ -1,4 +1,4 @@
-package com.en;
+package com.en.core;
 
 import com.en.helpers.ExpressionSplitter;
 import com.en.helpers.InfixConverter;

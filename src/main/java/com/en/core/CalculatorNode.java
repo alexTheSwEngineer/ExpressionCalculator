@@ -1,4 +1,4 @@
-package com.en;
+package com.en.core;
 
 /**
  * Created by atrposki on 13-Feb-17.
